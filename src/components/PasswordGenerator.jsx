@@ -22,6 +22,7 @@ const passwordReducer = (state, action) => {
   }
 };
 
+
 // Initial state
 const initialState = {
   password: "",
